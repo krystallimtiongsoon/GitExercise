@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 What do you mean girl
 kirkenuinely
+=======
+What do you mean girl?
+I had to jog kanina!
+>>>>>>> b5cbafb4ed38bdb2b3202258e2396e144a296958
